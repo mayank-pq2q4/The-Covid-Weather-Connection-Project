@@ -1,6 +1,6 @@
 # The-Covid-Weather-Connection-Project
 
-In this Repository, we try to build an app that can possibly analyze and answer two very significant questions regarding the COVID-19 spread in India, and consequently the world.
+In this repository, we try to build an app that can possibly analyze and answer two very significant questions regarding the COVID-19 spread in India, and consequently the world.
 ```
 1) Did the nation-wide lockdown have the desired effects of slowing down the spread?
 2) What role does the weather play in the spread of COVID-19?
