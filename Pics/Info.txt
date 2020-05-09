@@ -1,0 +1,1 @@
+These Pictures are the snapshots of the sample outputs of the Java app.
