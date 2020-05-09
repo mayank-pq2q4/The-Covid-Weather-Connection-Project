@@ -35,3 +35,10 @@ Install the Project files from the drive link below
 * **Sakshi Reddy** - *18XJ1A0549* - [GitHub](https://github.com/SakshiReddy)
 * **Vinuthna Ghattamaneni** - *18XJ1A0566* - [LinkedIn](https://github.com/404)
 
+## Sample Outputs
+![Image of Homescreen](https://octodex.github.com/images/yaktocat.png)
+![Image of Aboutscreen](https://octodex.github.com/images/yaktocat.png)
+![Image of Lockdown](https://octodex.github.com/images/yaktocat.png)
+![Image of Temperature](https://octodex.github.com/images/yaktocat.png)
+
+
