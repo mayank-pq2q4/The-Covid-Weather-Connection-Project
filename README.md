@@ -37,8 +37,8 @@ Install the Project files from the drive link below
 
 ## Sample Outputs
 ![Image of Homescreen](https://raw.githubusercontent.com/mayank-pq2q4/The-Covid-Weather-Connection-Project/master/Pics/Screenshot_20200509_140643.png)
-![Image of Aboutscreen](https://octodex.github.com/images/yaktocat.png)
-![Image of Lockdown](https://octodex.github.com/images/yaktocat.png)
-![Image of Temperature](https://octodex.github.com/images/yaktocat.png)
+![Image of Aboutscreen](https://raw.githubusercontent.com/mayank-pq2q4/The-Covid-Weather-Connection-Project/master/Pics/abt.png)
+![Image of Lockdown](https://raw.githubusercontent.com/mayank-pq2q4/The-Covid-Weather-Connection-Project/master/Pics/lkdn.png)
+![Image of Temperature](https://raw.githubusercontent.com/mayank-pq2q4/The-Covid-Weather-Connection-Project/master/Pics/temp.png)
 
 
