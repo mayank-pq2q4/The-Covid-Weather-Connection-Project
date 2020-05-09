@@ -36,7 +36,7 @@ Install the Project files from the drive link below
 * **Vinuthna Ghattamaneni** - *18XJ1A0566* - [LinkedIn](https://github.com/404)
 
 ## Sample Outputs
-![Image of Homescreen](https://octodex.github.com/images/yaktocat.png)
+![Image of Homescreen](https://raw.githubusercontent.com/mayank-pq2q4/The-Covid-Weather-Connection-Project/master/Pics/Screenshot_20200509_140643.png)
 ![Image of Aboutscreen](https://octodex.github.com/images/yaktocat.png)
 ![Image of Lockdown](https://octodex.github.com/images/yaktocat.png)
 ![Image of Temperature](https://octodex.github.com/images/yaktocat.png)
