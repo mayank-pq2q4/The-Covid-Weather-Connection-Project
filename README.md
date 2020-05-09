@@ -35,6 +35,6 @@ https://drive.google.com/open?id=1mc-ZumjKQjCIjH3BLAGhomzfBSCqJjwG
 ## Authors
 
 * **Mayank Deshpande** - *18XJ1A0529* - [GitHub](https://github.com/mayank-pq2q4)
-* **Sakshi Reddy** - *18XJ1A0549* - [LinkeIn](https://github.com/SakshiReddy)
-* **Vinuthna Ghattamaneni** - *18XJ1A0566* - [LinkeIn](https://github.com/SakshiReddy)
+* **Sakshi Reddy** - *18XJ1A0549* - [GitHub](https://github.com/SakshiReddy)
+* **Vinuthna Ghattamaneni** - *18XJ1A0566* - [LinkedIn](https://github.com/404)
 
