@@ -1,0 +1,4 @@
+export CLASSPATH=$CLASSPATH:/home/sak/Downloads/opencsv-2.2.jar
+ export CLASSPATH=$CLASSPATH:/home/sak/Downloads/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar:/home/sak/Downloads/jfreechart-1.0.19/lib/jcommon-1.0.23.jar
+
+
