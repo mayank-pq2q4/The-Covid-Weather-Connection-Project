@@ -45,11 +45,4 @@ public class lockdown extends ApplicationFrame {
             false, true, false);
         return chart;
     }
-
-    public static void main(String[] args) throws IOException {
-        final lockdown demo = new lockdown("Test Time Series Chart");
-        demo.pack();
-        RefineryUtilities.centerFrameOnScreen(demo);
-        demo.setVisible(true);
-    }
 }
