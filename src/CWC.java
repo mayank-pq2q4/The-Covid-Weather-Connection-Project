@@ -1,10 +1,8 @@
 import java.awt.Color;
 import java.awt.*;
 import java.awt.Container;
-//import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-//import javax.swing.ImageIcon;
 import javax.swing.JTextArea;
 import javax.swing.JButton;
 import javax.swing.JLabel;
@@ -29,7 +27,7 @@ import java.io.IOException;
 	private JMenu menu;
   private JMenuItem ab,an,ld;
   private JLabel l3;
-  //ImageIcon i;
+	 
   String s5="ABOUT:";
   String s1="SARS CoV-2,a coronavirus which is responsible for the 2020 global pandemic.Academic researchers,Doctors and biochemical engineers"+"\n"+" are invested in solving this crisis.";
   String s2="Previous cases of virus epidemics have suggested that weather factors influence the spread of the virus.there is a possibility that"+"\n"+" COVID-19 falls in this category.So we began  to plot graphs between the changing wether conditions (eq-temperature,humidity)to"+"\n"+" the covid cases in certain parts of india. ";
@@ -132,10 +130,6 @@ public static void main(String[] args){
 		JScrollBar scrollBar = new JScrollBar();
 		scrollBar.setBounds(1175,0 , 10, 1000);
 		frame.getContentPane().add(scrollBar);
-
-		//Label label = new Label("Click a Button");
-		//label.setBounds(530,550, 100, 20);
-		//frame.getContentPane().add(label);
 
 		ab.addActionListener(this);
     an.addActionListener(this);
